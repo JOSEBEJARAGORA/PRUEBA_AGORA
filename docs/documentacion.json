@@ -5,7 +5,7 @@
         "version": "1.0.0",
         "title": "AGORA API"
     },
-    "host": "localhost:8080",
+    "host": "backtesttecsup.herokuapp.com",
     "basePath": "/",
     "tags": [
         {
